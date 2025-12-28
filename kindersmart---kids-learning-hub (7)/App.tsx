@@ -380,7 +380,7 @@ const App: React.FC = () => {
       </main>
       
       <footer className="mt-16 text-left text-gray-400 text-sm pb-6">
-        <p>© 2024 KinderSmart Learning</p>
+        <p>© 2026 KinderSmart Learning</p>
       </footer>
     </div>
   );
